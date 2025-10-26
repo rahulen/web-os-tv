@@ -1,3 +1,40 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "album-art-1",
+      "description": "Abstract neon city scape at night",
+      "imageUrl": "https://images.unsplash.com/photo-1541537103745-ea3429c65dc4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxuZW9uJTIwY2l0eXxlbnwwfHx8fDE3NjEzNTc1MDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "neon city"
+    },
+    {
+      "id": "album-art-2",
+      "description": "Psychedelic colorful abstract pattern",
+      "imageUrl": "https://images.unsplash.com/photo-1744907529543-adfc939d3ad3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwc3ljaGVkZWxpYyUyMHBhdHRlcm58ZW58MHx8fHwxNzYxNDczOTkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "psychedelic pattern"
+    },
+    {
+      "id": "album-art-3",
+      "description": "Calm ocean waves crashing on a beach",
+      "imageUrl": "https://images.unsplash.com/photo-1610586567122-f9f885713761?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxvY2VhbiUyMHdhdmVzfGVufDB8fHx8MTc2MTQ0NDQxNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ocean waves"
+    },
+    {
+      "id": "album-art-4",
+      "description": "A retro-futuristic synthwave landscape",
+      "imageUrl": "https://images.unsplash.com/photo-1659823449893-c1e106e10a98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzeW50aHdhdmUlMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzYxMzY5MzU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "synthwave landscape"
+    },
+    {
+      "id": "album-art-5",
+      "description": "A vibrant, abstract explosion of colors",
+      "imageUrl": "https://images.unsplash.com/photo-1609581234406-b533112389cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb2xvciUyMGV4cGxvc2lvbnxlbnwwfHx8fDE3NjE0NzM5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "color explosion"
+    },
+    {
+      "id": "album-art-6",
+      "description": "A minimalist geometric design",
+      "imageUrl": "https://images.unsplash.com/photo-1701964618664-54ccbe61d92c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxnZW9tZXRyaWMlMjBkZXNpZ258ZW58MHx8fHwxNzYxNDczOTkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "geometric design"
+    }
+  ]
 }
